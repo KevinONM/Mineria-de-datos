@@ -15,3 +15,5 @@
 ##Fase-2
 
 [Presentación Regresión Bayesiana Equipo 4](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Presentaci%C3%B3n_Regresi%C3%B3n%20Bayesiana_04.pdf)
+
+[Mapa mental 2]
