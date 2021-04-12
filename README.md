@@ -16,4 +16,4 @@
 
 [Presentación Regresión Bayesiana Equipo 4](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Presentaci%C3%B3n_Regresi%C3%B3n%20Bayesiana_04.pdf)
 
-[Mapa mental 2]
+[Mapa mental 2](https://github.com/KevinONM/Mineria-de-datos-003/blob/main/Mapa%20Mental_2_1802294.pdf)
