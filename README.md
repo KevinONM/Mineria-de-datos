@@ -16,4 +16,14 @@
 
 [Presentación Regresión Bayesiana Equipo 4](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Presentaci%C3%B3n_Regresi%C3%B3n%20Bayesiana_04.pdf)
 
+[Ejemplo de regresión lineal Bayesiana](https://github.com/SahoriRamirez/MineriaDeDatos/blob/c3c46aeccf98651e74613947e338c28346de0355/Archivos/EJ_REGRESION_LINEAL_BAYESIANA_04.R)
+
+[Cakificaciones de Kahoot](https://github.com/SahoriRamirez/MineriaDeDatos/blob/c3c46aeccf98651e74613947e338c28346de0355/Archivos/Calificaci%C3%B3n_Regresi%C3%B3n%20Bayesiana%20_Equipo04.pdf)
+
 [Mapa mental 2](https://github.com/KevinONM/Mineria-de-datos-003/blob/main/Mapa%20Mental_2_1802294.pdf)
+
+[Segundo avance del PIA](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/AvancePIA_II_003_04.ipynb)
+
+[Base de datos I](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Visualizaci%C3%B3n_04_Principal.ipynb)
+
+[Base de datos II](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Vializaci%C3%B3n_04_Secundaria.ipynb)
