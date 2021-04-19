@@ -27,3 +27,5 @@
 [Base de datos I](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Visualizaci%C3%B3n_04_Principal.ipynb)
 
 [Base de datos II](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Vializaci%C3%B3n_04_Secundaria.ipynb)
+
+[SEGUNDO AVANCE DEL PIA CORRECCIÓN](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/AvancePIA_II_003_04CORRECCI%C3%93N.ipynb)
