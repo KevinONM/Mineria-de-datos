@@ -1,6 +1,6 @@
 # Mineria-de-datos
 
-##Fase-1
+## Fase-1
 
 [Mapa mental 1](https://github.com/KevinONM/Mineria-de-datos-003/blob/main/MapaMental_1_1802294.pdf)
 
@@ -12,7 +12,7 @@
 
 [Avance del PIA](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Avance1_PIA_04%20.ipynb)
 
-##Fase-2
+## Fase-2
 
 [Presentación Regresión Bayesiana Equipo 4](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Presentaci%C3%B3n_Regresi%C3%B3n%20Bayesiana_04.pdf)
 
@@ -35,3 +35,7 @@
 [Práctica de visualización principal](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Visualizaci%C3%B3n_04_Principal.ipynb)
 
 [Práctica de visualización secundaria](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Vializaci%C3%B3n_04_Secundaria.ipynb)
+
+## Fase-3
+
+[POSTER HOMICIDIOS EUA 1980-2014](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Poster-Homicidios%20EUA(1980-2014).pdf)
