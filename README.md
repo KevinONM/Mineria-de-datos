@@ -29,3 +29,5 @@
 [Base de datos II](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Vializaci%C3%B3n_04_Secundaria.ipynb)
 
 [Segundo avance del PIA (Corrección)](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/AvancePIA_II_003_04CORRECCI%C3%93N.ipynb)
+
+[Visualización del PIA PLOTLY](https://chart-studio.plotly.com/~verormz/0/avance-2-del-pia-integrantes/#/)
